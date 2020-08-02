@@ -4,14 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "webpack",
-    "start": "webpack-dev-server"
+    "build": "webpack"
   },
-  
   "keywords": [],
   "author": "",
   "license": "ISC",
-
   "devDependencies": {
     "css-loader": "^4.1.1",
     "file-loader": "^6.0.0",
@@ -21,5 +18,4 @@
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0"
   }
-
 }

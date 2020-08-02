@@ -56,7 +56,6 @@ module.exports = {
     ],
 
   },
-  
   devServer: {
     // 生成的虚拟目录路径
     contentBase: "./dist",

@@ -51,18 +51,6 @@ module.exports = {
           },
         ],
       },
-
-   
     ],
-
   },
-  
-  devServer: {
-    // 生成的虚拟目录路径
-    contentBase: "./dist",
-    // 自动开启浏览器
-    open: true,
-    // 端口
-    port: 8081
-  }
 };
