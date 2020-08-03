@@ -72,7 +72,7 @@ module.exports = {
     // new CleanWebpackPlugin()
 
     new MiniCssExtractPlugin({
-      filename: './css/[name].css'
+      filename: '[name].css'
     })
   ],
 

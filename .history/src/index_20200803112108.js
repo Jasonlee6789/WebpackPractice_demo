@@ -11,9 +11,9 @@ logoImage.src = logo;
 document.body.appendChild(logoImage);
 
 
-const login = document.querySelector('.login');
+login = document.querySelector('.login');
 login.onclick = function(){
-    console.log("开课吧-李靖");
+    console.log("开课吧-${李靖}");
 }
 // let styleEle = document.createElement("style");
 // styleEle.innerHTML = css[0][1];
